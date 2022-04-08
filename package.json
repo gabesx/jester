@@ -1,0 +1,23 @@
+{
+  "name": "jester",
+  "version": "1.0.0",
+  "description": "Glowing Add babel integration https://egghead.io/lessons/javascript-add-babel-integration-with-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabesx/jester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabesx/jester/issues"
+  },
+  "homepage": "https://github.com/gabesx/jester#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
