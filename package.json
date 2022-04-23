@@ -4,7 +4,7 @@
   "description": "Glowing Add babel integration https://egghead.io/lessons/javascript-add-babel-integration-with-jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
