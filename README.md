@@ -1,13 +1,23 @@
 # jester
 Glowing
-Getting Started
-Install Jest using yarn:
+# jest-training
 
+## Getting Started
+## Install Jest using yarn:
+`npm i`
+
+### or try
 `yarn add --dev jest`
 
-Or npm:
+### Or npm:
 
 `npm install --save-dev jest`
+
+## How to run
+`npm run test`
+or
+`npm run test 'GET example'`
+
 
 Note: Jest documentation uses yarn commands, but npm will also work. You can compare yarn and npm commands in the yarn docs, here.
 
@@ -54,3 +64,12 @@ In case of Jest, add this in your package.json:
 
 Add babel integration
 https://egghead.io/lessons/javascript-add-babel-integration-with-jest 
+
+
+
+
+
+=================================
+# Linux
+## Instal NPM
+`sudo apt-get install npm`
